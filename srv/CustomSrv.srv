@@ -1,0 +1,3 @@
+std_msgs/Bool flag
+---
+std_msgs/Bool result
